@@ -6,7 +6,7 @@ DATA_SOURCE_URL = "https://raw.githubusercontent.com/Thomas2512/Chinese_HSK4_Cou
 
 def main():
 
-    st.header("Chinese HSK4 Class Material- Peking University")
+    st.header("Chinese HSK4 Class Material - Peking University")
     st.write("")
 
     week = st.slider(
